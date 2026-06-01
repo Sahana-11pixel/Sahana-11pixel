@@ -20,13 +20,10 @@
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&background=00000000&lines=%3E+Hello%2C+World.+I'm+Saraswathi+S;%3E+Full-Stack+%2F%2F+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+TypeScript;%3E+AI+Integration+%2F%2F+Gemini+%C2%B7+Groq+%C2%B7+Ollama;%3E+Hackathon+Finalist+%2F%2F+3x+Presentation+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002413FF&center=true&vCenter=true&width=800&lines=Hello%2C+World.+I+am+Saraswathi+S;Full-Stack+Developer;AI+Builder" alt="Typing SVG" />
 </div>
 
-<br/>
 
 <div align="center">
 
