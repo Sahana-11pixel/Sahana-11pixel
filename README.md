@@ -39,13 +39,22 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 👩‍💻 Final-year **B.Sc. Computer Science** @ Sri GVG Visalakshi College for Women, Coimbatore
-- 🚀 Building full-stack apps with real **AI integration** that actually go to production
-- 🛠️ Daily stack: **React · Next.js · FastAPI · TypeScript · MongoDB · Firebase**
-- 🤖 Love working with **LLM APIs** — Gemini, Groq, Ollama, Llama 3.2
-- 🏆 Hackathon Finalist at **TNWISE 2025** & **Thiran 2025** · 3x Presentation Winner
-- 🌐 Portfolio: [saraswathi-dev.vercel.app](https://saraswathi-dev.vercel.app/)
-- 📫 Reach me: **saraswathi.selvasekar@gmail.com**
+🔭 Working on Full-Stack and AI-powered applications
+
+🌱 Currently learning Spring Boot, System Design, and Backend Architecture
+
+💡 Exploring AI integrations, LLMs, and scalable web applications
+
+👯 Open to collaborating on web development and AI projects
+
+🤝 Looking for opportunities to contribute to real-world software products
+
+👨‍💻 Check out my projects on GitHub
+
+🌐 Portfolio: saraswathi-dev.vercel.app
+
+📫 Reach me at: [saraswathi.selvasekar@gmail.com](mailto:saraswathi.selvasekar@gmail.com)
+
 
 <br clear="right"/>
 
