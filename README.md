@@ -119,7 +119,7 @@
 </div>
 
 ---
-
+<!-- 
 ## `> trophy --show`
 
 <div align="center">
@@ -166,7 +166,7 @@ cert    : Full Stack Dev Course Completion Certificate
 </details>
 
 ---
-
+-->
 ## `> projects --featured`
 
 <div align="center">
