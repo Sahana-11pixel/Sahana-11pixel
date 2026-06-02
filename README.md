@@ -7,8 +7,7 @@
 
 <div align="center">
 
-<!-- ANIMATED BANNER — pure black, particle grid, glitch name -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=SARASWATHI%20S&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20BUILDING%20THINGS%20THAT%20SHIP&descAlignY=68&descSize=13&descColor=555555" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=FULL-STACK%20DEVELOPER&fontSize=38&fontColor=ffffff&animation=blinking&fontAlignY=42&desc=AI%20APPLICATION%20BUILDER%20%E2%80%A2%20Computer%20Science%20Student%20%E2%80%A2%20Open%20to%20Work&descAlignY=68&descSize=14&descColor=777777" width="100%"/>
 
 </div>
 
@@ -21,7 +20,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002413FF&center=true&vCenter=true&width=800&lines=Hello%2C+World.+I+am+Saraswathi+S;Full-Stack+Developer;AI+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002413FF&center=true&vCenter=true&width=800&lines=Hello%2C+World.+I+am+Saraswathi+S" alt="Typing SVG" />
 </div>
 
 
